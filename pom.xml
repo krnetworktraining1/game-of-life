@@ -515,7 +515,6 @@
       <version>7.0.2.Final</version>
     </dependency>
   </dependencies>
-</plugin>
                 </plugins>
             </reporting>
         </profile>
